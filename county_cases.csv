@@ -1,4 +1,4 @@
-county,state,fips,cases,deaths
+﻿county,state,fips,cases,deaths
 Autauga,Alabama,1001,2059,31
 Baldwin,Alabama,1003,6658,69
 Barbour,Alabama,1005,1033,9
@@ -56,8 +56,8 @@ Pickens,Alabama,1107,852,18
 Pike,Alabama,1109,1341,13
 Randolph,Alabama,1111,827,16
 Russell,Alabama,1113,1949,3
-Shelby,Alabama,1117,7390,63
 St. Clair,Alabama,1115,2955,42
+Shelby,Alabama,1117,7390,63
 Sumter,Alabama,1119,472,21
 Talladega,Alabama,1121,2664,35
 Tallapoosa,Alabama,1123,1329,87
@@ -79,7 +79,6 @@ Juneau City and Borough,Alaska,2110,509,2
 Kenai Peninsula Borough,Alaska,2122,868,1
 Ketchikan Gateway Borough,Alaska,2130,79,0
 Kodiak Island Borough,Alaska,2150,96,0
-Kusilvak Census Area,Alaska,2158,183,0
 Lake and Peninsula Borough,Alaska,2164,5,0
 Matanuska-Susitna Borough,Alaska,2170,1075,2
 Nome Census Area,Alaska,2180,129,0
@@ -169,13 +168,13 @@ Pope,Arkansas,5115,2704,37
 Prairie,Arkansas,5117,205,4
 Pulaski,Arkansas,5119,11777,207
 Randolph,Arkansas,5121,639,24
+St. Francis,Arkansas,5123,1704,10
 Saline,Arkansas,5125,2779,29
 Scott,Arkansas,5127,209,1
 Searcy,Arkansas,5129,198,1
 Sebastian,Arkansas,5131,4784,90
 Sevier,Arkansas,5133,1335,16
 Sharp,Arkansas,5135,358,10
-St. Francis,Arkansas,5123,1704,10
 Stone,Arkansas,5137,398,21
 Union,Arkansas,5139,1118,49
 Van Buren,Arkansas,5141,207,3
@@ -371,11 +370,11 @@ Pasco,Florida,12101,10600,236
 Pinellas,Florida,12103,25130,816
 Polk,Florida,12105,22541,615
 Putnam,Florida,12107,2355,50
+St. Johns,Florida,12109,6280,80
+St. Lucie,Florida,12111,8893,329
 Santa Rosa,Florida,12113,5863,86
 Sarasota,Florida,12115,9392,330
 Seminole,Florida,12117,10044,236
-St. Johns,Florida,12109,6280,80
-St. Lucie,Florida,12111,8893,329
 Sumter,Florida,12119,2849,84
 Suwannee,Florida,12121,2972,77
 Taylor,Florida,12123,1450,16
@@ -477,11 +476,11 @@ Lincoln,Georgia,13181,245,7
 Long,Georgia,13183,290,4
 Lowndes,Georgia,13185,5066,85
 Lumpkin,Georgia,13187,1052,15
+McDuffie,Georgia,13189,734,15
+McIntosh,Georgia,13191,315,7
 Macon,Georgia,13193,278,10
 Madison,Georgia,13195,845,11
 Marion,Georgia,13197,220,9
-McDuffie,Georgia,13189,734,15
-McIntosh,Georgia,13191,315,7
 Meriwether,Georgia,13199,687,16
 Miller,Georgia,13201,335,2
 Mitchell,Georgia,13205,886,45
@@ -645,6 +644,9 @@ Lawrence,Illinois,17101,333,8
 Lee,Illinois,17103,710,2
 Livingston,Illinois,17105,632,10
 Logan,Illinois,17107,590,4
+McDonough,Illinois,17109,764,20
+McHenry,Illinois,17111,6446,126
+McLean,Illinois,17113,4150,34
 Macon,Illinois,17115,3055,52
 Macoupin,Illinois,17117,807,11
 Madison,Illinois,17119,7215,154
@@ -652,9 +654,6 @@ Marion,Illinois,17121,1012,19
 Marshall,Illinois,17123,156,3
 Mason,Illinois,17125,305,1
 Massac,Illinois,17127,154,2
-McDonough,Illinois,17109,764,20
-McHenry,Illinois,17111,6446,126
-McLean,Illinois,17113,4150,34
 Menard,Illinois,17129,185,1
 Mercer,Illinois,17131,262,6
 Monroe,Illinois,17133,920,30
@@ -672,13 +671,13 @@ Putnam,Illinois,17155,92,0
 Randolph,Illinois,17157,1271,15
 Richland,Illinois,17159,334,16
 Rock Island,Illinois,17161,4132,100
+St. Clair,Illinois,17163,8884,220
 Saline,Illinois,17165,559,9
 Sangamon,Illinois,17167,3988,64
 Schuyler,Illinois,17169,90,1
 Scott,Illinois,17171,106,0
 Shelby,Illinois,17173,669,12
 Stark,Illinois,17175,86,3
-St. Clair,Illinois,17163,8884,220
 Stephenson,Illinois,17177,981,7
 Tazewell,Illinois,17179,2645,56
 Union,Illinois,17181,780,25
@@ -763,12 +762,12 @@ Putnam,Indiana,18133,773,16
 Randolph,Indiana,18135,420,10
 Ripley,Indiana,18137,475,8
 Rush,Indiana,18139,276,4
+St. Joseph,Indiana,18141,9554,174
 Scott,Indiana,18143,551,15
 Shelby,Indiana,18145,1406,39
 Spencer,Indiana,18147,415,6
 Starke,Indiana,18149,439,9
 Steuben,Indiana,18151,662,8
-St. Joseph,Indiana,18141,9554,174
 Sullivan,Indiana,18153,460,14
 Switzerland,Indiana,18155,99,0
 Tippecanoe,Indiana,18157,3921,16
@@ -940,9 +939,9 @@ Lincoln,Kansas,20105,21,1
 Linn,Kansas,20107,123,1
 Logan,Kansas,20109,79,0
 Lyon,Kansas,20111,1227,39
+McPherson,Kansas,20113,373,6
 Marion,Kansas,20115,159,1
 Marshall,Kansas,20117,73,0
-McPherson,Kansas,20113,373,6
 Meade,Kansas,20119,158,2
 Miami,Kansas,20121,520,2
 Mitchell,Kansas,20123,57,0
@@ -1061,15 +1060,15 @@ Lincoln,Kentucky,21137,316,19
 Livingston,Kentucky,21139,124,1
 Logan,Kentucky,21141,757,31
 Lyon,Kentucky,21143,106,4
+McCracken,Kentucky,21145,1097,12
+McCreary,Kentucky,21147,268,1
+McLean,Kentucky,21149,181,2
 Madison,Kentucky,21151,2291,13
 Magoffin,Kentucky,21153,159,0
 Marion,Kentucky,21155,434,11
 Marshall,Kentucky,21157,453,7
 Martin,Kentucky,21159,180,3
 Mason,Kentucky,21161,165,2
-McCracken,Kentucky,21145,1097,12
-McCreary,Kentucky,21147,268,1
-McLean,Kentucky,21149,181,2
 Meade,Kentucky,21163,399,4
 Menifee,Kentucky,21165,81,1
 Mercer,Kentucky,21167,353,6
@@ -1191,8 +1190,6 @@ Washington,Maine,23029,39,0
 York,Maine,23031,1372,20
 Allegany,Maryland,24001,635,23
 Anne Arundel,Maryland,24003,11736,270
-Baltimore,Maryland,24005,20231,665
-Baltimore city,Maryland,24510,17457,501
 Calvert,Maryland,24009,1164,29
 Caroline,Maryland,24011,732,8
 Carroll,Maryland,24013,2205,129
@@ -1207,8 +1204,8 @@ Kent,Maryland,24029,340,25
 Montgomery,Maryland,24031,25187,867
 Prince George's,Maryland,24033,32594,853
 Queen Anne's,Maryland,24035,768,26
-Somerset,Maryland,24039,410,6
 St. Mary's,Maryland,24037,1452,60
+Somerset,Maryland,24039,410,6
 Talbot,Maryland,24041,641,6
 Washington,Maryland,24043,2229,43
 Wicomico,Maryland,24045,2451,50
@@ -1300,11 +1297,11 @@ Ottawa,Michigan,26139,4877,72
 Presque Isle,Michigan,26141,50,1
 Roscommon,Michigan,26143,162,5
 Saginaw,Michigan,26145,3689,152
+St. Clair,Michigan,26147,1506,64
+St. Joseph,Michigan,26149,1171,17
 Sanilac,Michigan,26151,188,7
 Schoolcraft,Michigan,26153,66,1
 Shiawassee,Michigan,26155,682,34
-St. Clair,Michigan,26147,1506,64
-St. Joseph,Michigan,26149,1171,17
 Tuscola,Michigan,26157,636,35
 Van Buren,Michigan,26159,1040,18
 Washtenaw,Michigan,26161,5651,127
@@ -1352,10 +1349,10 @@ Lake of the Woods,Minnesota,27077,44,1
 Le Sueur,Minnesota,27079,623,5
 Lincoln,Minnesota,27081,182,0
 Lyon,Minnesota,27083,965,6
+McLeod,Minnesota,27085,597,4
 Mahnomen,Minnesota,27087,113,2
 Marshall,Minnesota,27089,121,1
 Martin,Minnesota,27091,613,17
-McLeod,Minnesota,27085,597,4
 Meeker,Minnesota,27093,326,3
 Mille Lacs,Minnesota,27095,406,15
 Morrison,Minnesota,27097,726,9
@@ -1378,13 +1375,13 @@ Renville,Minnesota,27129,252,11
 Rice,Minnesota,27131,1633,10
 Rock,Minnesota,27133,328,4
 Roseau,Minnesota,27135,264,0
+St. Louis,Minnesota,27137,2965,69
 Scott,Minnesota,27139,3382,34
 Sherburne,Minnesota,27141,1685,22
 Sibley,Minnesota,27143,252,3
 Stearns,Minnesota,27145,5825,43
 Steele,Minnesota,27147,759,3
 Stevens,Minnesota,27149,182,1
-St. Louis,Minnesota,27137,2965,69
 Swift,Minnesota,27151,201,1
 Todd,Minnesota,27153,805,5
 Traverse,Minnesota,27155,56,0
@@ -1530,8 +1527,6 @@ Jackson,Missouri,29095,9855,123
 Jasper,Missouri,29097,3198,41
 Jefferson,Missouri,29099,5818,84
 Johnson,Missouri,29101,1474,10
-Joplin,Missouri,,1961,29
-Kansas City,Missouri,,14229,195
 Knox,Missouri,29103,62,1
 Laclede,Missouri,29105,1178,22
 Lafayette,Missouri,29107,810,24
@@ -1540,11 +1535,11 @@ Lewis,Missouri,29111,197,2
 Lincoln,Missouri,29113,1172,5
 Linn,Missouri,29115,159,4
 Livingston,Missouri,29117,556,7
+McDonald,Missouri,29119,1296,13
 Macon,Missouri,29121,205,1
 Madison,Missouri,29123,485,3
 Maries,Missouri,29125,184,0
 Marion,Missouri,29127,901,14
-McDonald,Missouri,29119,1296,13
 Mercer,Missouri,29129,31,0
 Miller,Missouri,29131,859,9
 Mississippi,Missouri,29133,438,6
@@ -1572,18 +1567,17 @@ Randolph,Missouri,29175,602,3
 Ray,Missouri,29177,270,2
 Reynolds,Missouri,29179,70,1
 Ripley,Missouri,29181,261,4
+St. Charles,Missouri,29183,10883,149
+St. Clair,Missouri,29185,118,1
+Ste. Genevieve,Missouri,29186,378,1
+St. Francois,Missouri,29187,3014,27
+St. Louis,Missouri,29189,29588,870
 Saline,Missouri,29195,939,10
 Schuyler,Missouri,29197,41,0
 Scotland,Missouri,29199,72,1
 Scott,Missouri,29201,1390,19
 Shannon,Missouri,29203,230,4
 Shelby,Missouri,29205,107,1
-St. Charles,Missouri,29183,10883,149
-St. Clair,Missouri,29185,118,1
-Ste. Genevieve,Missouri,29186,378,1
-St. Francois,Missouri,29187,3014,27
-St. Louis,Missouri,29189,29588,870
-St. Louis city,Missouri,29510,8311,221
 Stoddard,Missouri,29207,865,15
 Stone,Missouri,29209,678,9
 Sullivan,Missouri,29211,300,1
@@ -1596,6 +1590,7 @@ Wayne,Missouri,29223,307,1
 Webster,Missouri,29225,1135,13
 Worth,Missouri,29227,31,0
 Wright,Missouri,29229,585,5
+St. Louis city,Missouri,29510,8311,221
 Beaverhead,Montana,30001,263,1
 Big Horn,Montana,30003,1331,34
 Blaine,Montana,30005,283,3
@@ -1623,8 +1618,8 @@ Lake,Montana,30047,521,2
 Lewis and Clark,Montana,30049,832,5
 Liberty,Montana,30051,28,0
 Lincoln,Montana,30053,293,3
-Madison,Montana,30057,163,1
 McCone,Montana,30055,61,0
+Madison,Montana,30057,163,1
 Meagher,Montana,30059,66,3
 Mineral,Montana,30061,15,0
 Missoula,Montana,30063,2046,10
@@ -1710,8 +1705,8 @@ Lancaster,Nebraska,31109,8877,42
 Lincoln,Nebraska,31111,812,7
 Logan,Nebraska,31113,10,0
 Loup,Nebraska,31115,7,0
-Madison,Nebraska,31119,1389,9
 McPherson,Nebraska,31117,10,0
+Madison,Nebraska,31119,1389,9
 Merrick,Nebraska,31121,132,1
 Morrill,Nebraska,31123,104,0
 Nance,Nebraska,31125,81,0
@@ -1745,7 +1740,6 @@ Wayne,Nebraska,31179,314,1
 Webster,Nebraska,31181,112,0
 Wheeler,Nebraska,31183,3,0
 York,Nebraska,31185,463,2
-Carson City,Nevada,32510,720,8
 Churchill,Nevada,32001,203,4
 Clark,Nevada,32003,78897,1492
 Douglas,Nevada,32005,396,1
@@ -1761,6 +1755,7 @@ Pershing,Nevada,32027,24,0
 Storey,Nevada,32029,22,0
 Washoe,Nevada,32031,12482,193
 White Pine,Nevada,32033,118,1
+Carson City,Nevada,32510,720,8
 Belknap,New Hampshire,33001,223,5
 Carroll,New Hampshire,33003,142,2
 Cheshire,New Hampshire,33005,182,3
@@ -1799,7 +1794,7 @@ Cibola,New Mexico,35006,912,21
 Colfax,New Mexico,35007,44,1
 Curry,New Mexico,35009,1503,10
 De Baca,New Mexico,35011,1,0
-Do�a Ana,New Mexico,35013,5690,67
+Doña Ana,New Mexico,35013,5690,67
 Eddy,New Mexico,35015,1398,22
 Grant,New Mexico,35017,184,3
 Guadalupe,New Mexico,35019,41,1
@@ -1853,7 +1848,6 @@ Madison,New York,36053,559,9
 Monroe,New York,36055,7112,261
 Montgomery,New York,36057,261,9
 Nassau,New York,36059,49312,2209
-New York City,New York,,263269,23967
 Niagara,New York,36063,2041,90
 Oneida,New York,36065,2681,127
 Onondaga,New York,36067,5309,185
@@ -1865,13 +1859,13 @@ Otsego,New York,36077,390,4
 Putnam,New York,36079,1794,63
 Rensselaer,New York,36083,1080,42
 Rockland,New York,36087,17685,512
+St. Lawrence,New York,36089,386,4
 Saratoga,New York,36091,1308,15
 Schenectady,New York,36093,1546,48
 Schoharie,New York,36095,109,2
 Schuyler,New York,36097,116,2
 Seneca,New York,36099,140,2
 Steuben,New York,36101,962,69
-St. Lawrence,New York,36089,386,4
 Suffolk,New York,36103,48663,2019
 Sullivan,New York,36105,1743,37
 Tioga,New York,36107,572,26
@@ -1938,10 +1932,10 @@ Jones,North Carolina,37103,198,15
 Lee,North Carolina,37105,2063,19
 Lenoir,North Carolina,37107,1395,39
 Lincoln,North Carolina,37109,2310,16
+McDowell,North Carolina,37111,1298,32
 Macon,North Carolina,37113,745,7
 Madison,North Carolina,37115,208,1
 Martin,North Carolina,37117,630,16
-McDowell,North Carolina,37111,1298,32
 Mecklenburg,North Carolina,37119,33065,382
 Mitchell,North Carolina,37121,208,4
 Montgomery,North Carolina,37123,1174,38
@@ -2036,8 +2030,6 @@ Walsh,North Dakota,38099,432,2
 Ward,North Dakota,38101,2530,35
 Wells,North Dakota,38103,117,0
 Williams,North Dakota,38105,1763,14
-Saipan,Northern Mariana Islands,69110,86,2
-Tinian,Northern Mariana Islands,69120,2,0
 Adams,Ohio,39001,215,6
 Allen,Ohio,39003,2250,74
 Ashland,Ohio,39005,428,9
@@ -2169,12 +2161,12 @@ Le Flore,Oklahoma,40079,1637,22
 Lincoln,Oklahoma,40081,781,21
 Logan,Oklahoma,40083,843,2
 Love,Oklahoma,40085,272,1
-Major,Oklahoma,40093,170,2
-Marshall,Oklahoma,40095,271,2
-Mayes,Oklahoma,40097,972,13
 McClain,Oklahoma,40087,1310,10
 McCurtain,Oklahoma,40089,1614,39
 McIntosh,Oklahoma,40091,506,10
+Major,Oklahoma,40093,170,2
+Marshall,Oklahoma,40095,271,2
+Mayes,Oklahoma,40097,972,13
 Murray,Oklahoma,40099,299,2
 Muskogee,Oklahoma,40101,2321,28
 Noble,Oklahoma,40103,175,3
@@ -2343,9 +2335,9 @@ Lancaster,South Carolina,45057,2524,61
 Laurens,South Carolina,45059,1886,61
 Lee,South Carolina,45061,781,36
 Lexington,South Carolina,45063,8796,203
+McCormick,South Carolina,45065,268,7
 Marion,South Carolina,45067,1115,40
 Marlboro,South Carolina,45069,1122,12
-McCormick,South Carolina,45065,268,7
 Newberry,South Carolina,45071,1608,45
 Oconee,South Carolina,45073,2428,33
 Orangeburg,South Carolina,45075,3326,130
@@ -2399,15 +2391,14 @@ Lake,South Dakota,46079,347,8
 Lawrence,South Dakota,46081,836,6
 Lincoln,South Dakota,46083,2584,18
 Lyman,South Dakota,46085,247,5
-Marshall,South Dakota,46091,62,1
 McCook,South Dakota,46087,220,1
 McPherson,South Dakota,46089,64,0
+Marshall,South Dakota,46091,62,1
 Meade,South Dakota,46093,900,10
 Mellette,South Dakota,46095,71,1
 Miner,South Dakota,46097,137,1
 Minnehaha,South Dakota,46099,10411,106
 Moody,South Dakota,46101,203,2
-Oglala Lakota,South Dakota,46102,832,5
 Pennington,South Dakota,46103,4136,48
 Perkins,South Dakota,46105,74,0
 Potter,South Dakota,46107,99,0
@@ -2476,13 +2467,13 @@ Lawrence,Tennessee,47099,1618,20
 Lewis,Tennessee,47101,403,3
 Lincoln,Tennessee,47103,897,3
 Loudon,Tennessee,47105,1623,11
+McMinn,Tennessee,47107,1640,36
+McNairy,Tennessee,47109,1129,27
 Macon,Tennessee,47111,1343,25
 Madison,Tennessee,47113,3780,79
 Marion,Tennessee,47115,773,9
 Marshall,Tennessee,47117,1138,10
 Maury,Tennessee,47119,3307,37
-McMinn,Tennessee,47107,1640,36
-McNairy,Tennessee,47109,1129,27
 Meigs,Tennessee,47121,327,6
 Monroe,Tennessee,47123,1462,28
 Montgomery,Tennessee,47125,4217,56
@@ -2670,15 +2661,15 @@ Live Oak,Texas,48297,381,10
 Llano,Texas,48299,176,3
 Lubbock,Texas,48303,17478,175
 Lynn,Texas,48305,165,5
+McCulloch,Texas,48307,202,4
+McLennan,Texas,48309,9893,149
+McMullen,Texas,48311,24,1
 Madison,Texas,48313,757,6
 Marion,Texas,48315,170,14
 Martin,Texas,48317,89,7
 Mason,Texas,48319,80,2
 Matagorda,Texas,48321,1095,53
 Maverick,Texas,48323,4182,146
-McCulloch,Texas,48307,202,4
-McLennan,Texas,48309,9893,149
-McMullen,Texas,48311,24,1
 Medina,Texas,48325,1274,48
 Menard,Texas,48327,62,0
 Midland,Texas,48329,4979,90
@@ -2816,7 +2807,6 @@ Windham,Vermont,50025,145,3
 Windsor,Vermont,50027,119,2
 Accomack,Virginia,51001,1207,19
 Albemarle,Virginia,51003,1562,24
-Alexandria city,Virginia,51510,4216,74
 Alleghany,Virginia,51005,111,4
 Amelia,Virginia,51007,146,6
 Amherst,Virginia,51009,573,4
@@ -2827,41 +2817,28 @@ Bath,Virginia,51017,24,0
 Bedford,Virginia,51019,1180,17
 Bland,Virginia,51021,64,5
 Botetourt,Virginia,51023,381,12
-Bristol city,Virginia,51520,258,7
 Brunswick,Virginia,51025,421,5
 Buchanan,Virginia,51027,253,2
 Buckingham,Virginia,51029,733,9
-Buena Vista city,Virginia,51530,121,1
 Campbell,Virginia,51031,702,8
 Caroline,Virginia,51033,413,6
 Carroll,Virginia,51035,598,29
 Charles City,Virginia,51036,99,5
 Charlotte,Virginia,51037,212,1
-Charlottesville city,Virginia,51540,1573,31
-Chesapeake city,Virginia,51550,4859,78
 Chesterfield,Virginia,51041,6980,102
 Clarke,Virginia,51043,117,1
-Colonial Heights city,Virginia,51570,303,26
-Covington city,Virginia,51580,35,0
 Craig,Virginia,51045,49,0
 Culpeper,Virginia,51047,1340,18
 Cumberland,Virginia,51049,116,2
-Danville city,Virginia,51590,1169,42
 Dickenson,Virginia,51051,134,1
 Dinwiddie,Virginia,51053,505,12
-Emporia city,Virginia,51595,289,28
 Essex,Virginia,51057,194,2
 Fairfax,Virginia,51059,23351,606
-Fairfax city,Virginia,51600,158,8
-Falls Church city,Virginia,51610,75,7
 Fauquier,Virginia,51061,1080,27
 Floyd,Virginia,51063,241,15
 Fluvanna,Virginia,51065,425,9
 Franklin,Virginia,51067,791,5
-Franklin city,Virginia,51620,490,13
 Frederick,Virginia,51069,1149,13
-Fredericksburg city,Virginia,51630,585,6
-Galax city,Virginia,51640,440,30
 Giles,Virginia,51071,125,0
 Gloucester,Virginia,51073,344,3
 Goochland,Virginia,51075,326,7
@@ -2869,13 +2846,10 @@ Grayson,Virginia,51077,374,19
 Greene,Virginia,51079,292,3
 Greensville,Virginia,51081,890,14
 Halifax,Virginia,51083,494,8
-Hampton city,Virginia,51650,2100,32
 Hanover,Virginia,51085,1603,42
-Harrisonburg city,Virginia,51660,2988,35
 Henrico,Virginia,51087,6229,232
 Henry,Virginia,51089,1293,31
 Highland,Virginia,51091,10,0
-Hopewell city,Virginia,51670,500,7
 Isle of Wight,Virginia,51093,857,26
 James City,Virginia,51095,950,22
 King and Queen,Virginia,51097,85,2
@@ -2883,73 +2857,87 @@ King George,Virginia,51099,267,5
 King William,Virginia,51101,200,3
 Lancaster,Virginia,51103,199,1
 Lee,Virginia,51105,460,9
-Lexington city,Virginia,51678,226,1
 Loudoun,Virginia,51107,7736,130
 Louisa,Virginia,51109,388,8
 Lunenburg,Virginia,51111,151,4
-Lynchburg city,Virginia,51680,1923,25
 Madison,Virginia,51113,130,3
-Manassas city,Virginia,51683,2032,27
-Manassas Park city,Virginia,51685,642,8
-Martinsville city,Virginia,51690,479,24
 Mathews,Virginia,51115,131,0
 Mecklenburg,Virginia,51117,866,35
 Middlesex,Virginia,51119,145,11
 Montgomery,Virginia,51121,2712,5
 Nelson,Virginia,51125,136,2
 New Kent,Virginia,51127,284,3
-Newport News city,Virginia,51700,3160,51
-Norfolk city,Virginia,51710,5330,85
 Northampton,Virginia,51131,319,31
 Northumberland,Virginia,51133,215,7
-Norton city,Virginia,51720,48,0
 Nottoway,Virginia,51135,340,21
 Orange,Virginia,51137,392,5
 Page,Virginia,51139,465,30
 Patrick,Virginia,51141,318,27
-Petersburg city,Virginia,51730,912,30
 Pittsylvania,Virginia,51143,1271,17
-Poquoson city,Virginia,51735,97,2
-Portsmouth city,Virginia,51740,2810,69
 Powhatan,Virginia,51145,306,5
 Prince Edward,Virginia,51147,745,13
 Prince George,Virginia,51149,1067,6
 Prince William,Virginia,51153,13984,223
 Pulaski,Virginia,51155,289,6
-Radford city,Virginia,51750,923,1
 Rappahannock,Virginia,51157,69,2
 Richmond,Virginia,51159,378,5
-Richmond city,Virginia,51760,5261,76
 Roanoke,Virginia,51161,1458,14
-Roanoke city,Virginia,51770,2647,37
 Rockbridge,Virginia,51163,150,3
 Rockingham,Virginia,51165,1738,27
 Russell,Virginia,51167,466,8
-Salem city,Virginia,51775,532,6
 Scott,Virginia,51169,343,5
 Shenandoah,Virginia,51171,954,61
 Smyth,Virginia,51173,616,25
 Southampton,Virginia,51175,916,37
 Spotsylvania,Virginia,51177,2411,51
 Stafford,Virginia,51179,2323,20
-Staunton city,Virginia,51790,381,3
-Suffolk city,Virginia,51800,2283,78
 Surry,Virginia,51181,140,5
 Sussex,Virginia,51183,640,13
 Tazewell,Virginia,51185,488,2
-Virginia Beach city,Virginia,51810,7802,104
 Warren,Virginia,51187,570,20
 Washington,Virginia,51191,962,26
-Waynesboro city,Virginia,51820,385,4
 Westmoreland,Virginia,51193,335,5
-Williamsburg city,Virginia,51830,213,8
-Winchester city,Virginia,51840,596,5
 Wise,Virginia,51195,584,10
 Wythe,Virginia,51197,332,6
 York,Virginia,51199,637,9
-St. Croix,Virgin Islands,78010,502,6
-St. John,Virgin Islands,78020,67,1
-St. Thomas,Virgin Islands,78030,777,14
+Alexandria city,Virginia,51510,4216,74
+Bristol city,Virginia,51520,258,7
+Buena Vista city,Virginia,51530,121,1
+Charlottesville city,Virginia,51540,1573,31
+Chesapeake city,Virginia,51550,4859,78
+Colonial Heights city,Virginia,51570,303,26
+Covington city,Virginia,51580,35,0
+Danville city,Virginia,51590,1169,42
+Emporia city,Virginia,51595,289,28
+Fairfax city,Virginia,51600,158,8
+Falls Church city,Virginia,51610,75,7
+Franklin city,Virginia,51620,490,13
+Fredericksburg city,Virginia,51630,585,6
+Galax city,Virginia,51640,440,30
+Hampton city,Virginia,51650,2100,32
+Harrisonburg city,Virginia,51660,2988,35
+Hopewell city,Virginia,51670,500,7
+Lexington city,Virginia,51678,226,1
+Lynchburg city,Virginia,51680,1923,25
+Manassas city,Virginia,51683,2032,27
+Manassas Park city,Virginia,51685,642,8
+Martinsville city,Virginia,51690,479,24
+Newport News city,Virginia,51700,3160,51
+Norfolk city,Virginia,51710,5330,85
+Norton city,Virginia,51720,48,0
+Petersburg city,Virginia,51730,912,30
+Poquoson city,Virginia,51735,97,2
+Portsmouth city,Virginia,51740,2810,69
+Radford city,Virginia,51750,923,1
+Richmond city,Virginia,51760,5261,76
+Roanoke city,Virginia,51770,2647,37
+Salem city,Virginia,51775,532,6
+Staunton city,Virginia,51790,381,3
+Suffolk city,Virginia,51800,2283,78
+Virginia Beach city,Virginia,51810,7802,104
+Waynesboro city,Virginia,51820,385,4
+Williamsburg city,Virginia,51830,213,8
+Winchester city,Virginia,51840,596,5
 Adams,Washington,53001,913,10
 Asotin,Washington,53003,222,7
 Benton,Washington,53005,5367,137
@@ -3012,10 +3000,10 @@ Kanawha,West Virginia,54039,3527,101
 Lewis,West Virginia,54041,76,2
 Lincoln,West Virginia,54043,233,2
 Logan,West Virginia,54045,744,45
+McDowell,West Virginia,54047,114,0
 Marion,West Virginia,54049,370,5
 Marshall,West Virginia,54051,281,3
 Mason,West Virginia,54053,173,6
-McDowell,West Virginia,54047,114,0
 Mercer,West Virginia,54055,680,30
 Mineral,West Virginia,54057,210,4
 Mingo,West Virginia,54059,557,10
@@ -3099,11 +3087,11 @@ Racine,Wisconsin,55101,7682,109
 Richland,Wisconsin,55103,462,8
 Rock,Wisconsin,55105,4960,43
 Rusk,Wisconsin,55107,213,1
+St. Croix,Wisconsin,55109,1786,11
 Sauk,Wisconsin,55111,1705,7
 Sawyer,Wisconsin,55113,367,2
 Shawano,Wisconsin,55115,2348,19
 Sheboygan,Wisconsin,55117,4494,24
-St. Croix,Wisconsin,55109,1786,11
 Taylor,Wisconsin,55119,472,7
 Trempealeau,Wisconsin,55121,986,2
 Vernon,Wisconsin,55123,478,2
