@@ -71,7 +71,7 @@ Aleutians West  AK,2016,14114.7
 Anchorage  AK,2020,1961.51
 Bethel  AK,2050,45954.59
 Bristol Bay  AK,2060,917.61
-Denali  AK,2068,0
+Denali  AK,2068,12777
 Dillingham  AK,2070,20613.12
 Fairbanks North Star  AK,2090,7443.68
 Haines  AK,2100,2754.1
@@ -87,10 +87,10 @@ Northwest Arctic  AK,2188,40660.96
 Petersburg  AK,2195,8973.77
 Prince of Wales-Hyder  AK,2198,12566.41
 Sitka  AK,2220,4849.75
-Skagway  AK,2230,0
+Skagway  AK,2230,464
 Southeast Fairbanks  AK,2240,26235.44
 Valdez-Cordova  AK,2261,43515.67
-Wrangell  AK,2275,0
+Wrangell  AK,2275,3477
 Yukon-Koyukuk  AK,2290,158995.95
 Apache  AZ,4001,11219.17
 Cochise  AZ,4003,6219.32
@@ -247,7 +247,7 @@ Archuleta  CO,8007,1354.65
 Baca  CO,8009,2557.24
 Bent  CO,8011,1541.25
 Boulder  CO,8013,751.4
-Broomfield  CO,8014,0
+Broomfield  CO,8014,33
 Chaffee  CO,8015,1015.07
 Cheyenne  CO,8017,1781.5
 Clear Creek  CO,8019,396.47
